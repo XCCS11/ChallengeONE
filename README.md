@@ -14,15 +14,14 @@
 ## 3.一个带有代码高亮显示的代码块
 ~~~C
 #include<stdio.h>
-main()
-{
+int main(){
 int a,b,c;
 a=10;
-b=21;
+b=2*a;
 c=a+b;
-printf("a,b的和是：");
-printf("%d",c);  }
-
+printf("c的值是：");
+printf("%d",c);}
+~~~
 ## 4.一个块报价
 
 ## 5.项目列表
