@@ -13,12 +13,14 @@
 
 ## 3.一个带有代码高亮显示的代码块
 ~~~
-#`include`<stdio.h>
-`int` `main`(){
-`int` a,b,c;
+```
+#include<stdio.h>
+int main(){
+int a,b,c;
 a=10;
 b=2*a;
 c=a+b;
+```
 printf("c的值是：");
 printf("%d",c);}
 ~~~
