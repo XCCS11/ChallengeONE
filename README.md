@@ -12,18 +12,17 @@
 ![我的图片](https://img0.baidu.com/it/u=2051053843,572761520&fm=26&fmt=auto&gp=0.jpg)
 
 ## 3.一个带有代码高亮显示的代码块
-~~~
-```
+~~~C
 #include<stdio.h>
 int main(){
 int a,b,c;
 a=10;
 b=2*a;
 c=a+b;
-```
 printf("c的值是：");
 printf("%d",c);}
 ~~~
+
 ## 4.一个块报价
 
 ## 5.项目列表
