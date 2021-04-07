@@ -1,6 +1,6 @@
 # ChallengeONE
 this is a md file.
 # 
-[跳到xc.md](fgf)
+[跳到xc.md](https://github.com/XCCS11/ChallengeONE/tree/xc1.md)
 # 
-[跳到xc1.md](fgf)
+[跳到xc1.md](https://github.com/XCCS11/ChallengeONE/tree/xc1.md)
