@@ -2,7 +2,7 @@
 #### this is a md file.
 
 ## 1.下一个markdown文件XC1.md网页的链接
-[下一个markdown文件](https://github.com/XCCS11/ChallengeONE/blob/xc1.md/README.md)
+[下一个markdown文件](https://github.com/XCCS11/ChallengeONE/tree/xc1.md)
 
 
 
